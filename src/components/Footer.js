@@ -53,10 +53,11 @@ function Footer() {
                     </div>
                     <div class='footer-link-items'>
                         <h2>Social Media</h2>
-                        <Link to='/'>Instagram</Link>
-                        <Link to='/'>Facebook</Link>
-                        <Link to='/'>Youtube</Link>
-                        <Link to='/'>Twitter</Link>
+                        <Link to='https://www.instagram.com/the_stylish_coder/' target='_blank'>Instagram</Link>
+                        <Link to='https://www.facebook.com/gokulbhaveshjoshi/' target='_blank'>Facebook</Link>
+                        <Link to='https://www.youtube.com/@TheStylishCoder' target='_blank'>Youtube</Link>
+                        <Link to='https://twitter.com/GOKULBHAVESH' target='_blank' >Twitter</Link>
+                        <Link to='https://www.linkedin.com/in/gokul-bhavesh-joshi/' target='_blank'>LinkedIn</Link>
                     </div>
                 </div>
             </div>
@@ -64,15 +65,15 @@ function Footer() {
                 <div class='social-media-wrap'>
                     <div class='footer-logo'>
                         <Link to='/' className='social-logo'>
-                            TRVL
+                            TSC
                             <i class='fab fa-typo3' />
                         </Link>
                     </div>
-                    <small class='website-rights'>TRVL © 2020</small>
+                    <small class='website-rights'>TSC © 2020</small>
                     <div class='social-icons'>
                         <Link
                             class='social-icon-link facebook'
-                            to='/'
+                            to='https://www.facebook.com/gokulbhaveshjoshi/'
                             target='_blank'
                             aria-label='Facebook'
                         >
@@ -80,7 +81,7 @@ function Footer() {
                         </Link>
                         <Link
                             class='social-icon-link instagram'
-                            to='/'
+                            to='https://www.instagram.com/the_stylish_coder/'
                             target='_blank'
                             aria-label='Instagram'
                         >
@@ -88,7 +89,7 @@ function Footer() {
                         </Link>
                         <Link
                             class='social-icon-link youtube'
-                            to='/'
+                            to='https://www.youtube.com/@TheStylishCoder'
                             target='_blank'
                             aria-label='Youtube'
                         >
@@ -96,7 +97,7 @@ function Footer() {
                         </Link>
                         <Link
                             class='social-icon-link twitter'
-                            to='/'
+                            to='https://twitter.com/GOKULBHAVESH'
                             target='_blank'
                             aria-label='Twitter'
                         >
@@ -104,7 +105,7 @@ function Footer() {
                         </Link>
                         <Link
                             class='social-icon-link twitter'
-                            to='/'
+                            to='https://www.linkedin.com/in/gokul-bhavesh-joshi/'
                             target='_blank'
                             aria-label='LinkedIn'
                         >
